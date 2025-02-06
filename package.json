@@ -1,0 +1,16 @@
+{
+  "name": "clerk-pr-4985",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev:vue": "pnpm --filter vue-app dev",
+    "dev:next": "pnpm --filter next-app dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@clerk/shared": "2.21.0-snapshot.v20250204165902"
+  }
+}
